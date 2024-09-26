@@ -1,0 +1,36 @@
+Prefixes:
+    Concerned with - wak
+    Negation/deprivation - ohf
+    Oppose/opposite - [ts]ikir
+    Completed/past - roo
+    Prior - fo
+    Repetition - aw
+    Supporting/towards - gaj
+    Future - con
+    Great/amazing - mip
+    Concept/result - oro
+    More - soko
+    Most - rosk
+
+Suffixes:
+    Continuous/present - ik
+    Not concerned with - af
+    Become/like/similar - go
+    Associated with - o
+    Abundance - kre
+    Absence/lack/less - nii
+    Least - onin
+    Immediate future - iikii
+    Capable of doing - pof
+    Relating to person - chan
+    Of a person - ayechan
+    Relating to yourself - iiioo
+    Of yourself - iii'ik
+
+Pluralisers (Suffix):
+    Neutral - i/j
+    Countable - p/b
+    Uncountable - t/o
+
+Nominalisers (Prefix):
+    Neutral - bidon 
