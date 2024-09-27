@@ -3,5 +3,6 @@ set(CMAKE_CXX_STANDARD 17)
 project(kkm)
 
 add_executable(kkm
-    # Will add when I start
+    ../entry.c
+    ../main.c
 )
